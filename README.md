@@ -8,7 +8,7 @@ My academic journey combines finance, economics, and data science, giving me a s
 
 * **Econometric analysis** of political factors influencing renewable energy investment in Europe.
 * **Cost analysis** of healthcare complications for the Portuguese National Health Service using decision-tree modeling.
-* **Automation of financial processes** and improvement of internal systems through internships in consulting and project management.
+* **Natural Language Processing** in financial tweets, to see whether they are bullish, bearish or neutral.
 
 ## 🧠 Languages
 
