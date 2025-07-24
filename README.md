@@ -7,7 +7,7 @@ My academic journey combines finance, economics, and data science, giving me a s
 ### 🔧 Technical Skills:
 
 * **Programming:** Python, R, SQL
-* **Data Tools:** Excel (Advanced), MongoDB, Gretl
+* **Data Tools:** Excel (Advanced), MongoDB, Neo4j 
 * **Analytics & Modeling:** Econometrics, Machine Learning, Statistical Analysis
 
 ### 📚 Recent Projects:
