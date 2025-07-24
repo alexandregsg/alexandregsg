@@ -4,17 +4,48 @@ I'm currently pursuing my Master's in Finance at Nova School of Business and Eco
 
 My academic journey combines finance, economics, and data science, giving me a solid foundation in statistical analysis, programming, and economic modeling. I'm particularly interested in how data-driven techniques can improve financial decision-making and economic policy.
 
-### 🔧 Technical Skills:
-
-* **Programming:** Python, R, SQL
-* **Data Tools:** Excel (Advanced), MongoDB, Neo4j 
-* **Analytics & Modeling:** Econometrics, Machine Learning, Statistical Analysis
-
 ### 📚 Recent Projects:
 
 * **Econometric analysis** of political factors influencing renewable energy investment in Europe.
 * **Cost analysis** of healthcare complications for the Portuguese National Health Service using decision-tree modeling.
 * **Automation of financial processes** and improvement of internal systems through internships in consulting and project management.
+
+## 🧠 Languages
+
+- Python, SQL, R, PySpark, Markdown, LaTeX
+
+## 📂 Databases
+
+- MySQL, MongoDB, Neo4j
+
+## 🌐 Web Development
+
+- Streamlit, HTML5, CSS3, Django
+
+## 📊 Data Science & Machine Learning
+
+- NumPy, Pandas, Scikit-Learn, XGBoost / LightGBM / CatBoost
+- Matplotlib, Seaborn, Plotly
+- SciPy, igraph, NetworkX, PuLP
+- BeautifulSoup, Selenium
+
+## 🫧 Deep Learning
+
+- TensorFlow, Keras, PyTorch, Hugging Face, LangChain
+
+## 🛠️ Tools & Frameworks
+
+- Linux, Bash, Git, GitHub, Docker, Databricks, AWS
+- PyCharm, Jupyter, VS Code
+
+## 🤖 AI Assistants & Productivity
+
+- ChatGPT, Grok, Google AI Studio
+- Mistral AI, GitHub Copilot, Google Gemini, Hugging Face
+
+## 📈 Data Visualization
+
+- Tableau, Power BI, RStudio
 
 ### 🚀 Interests:
 
