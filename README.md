@@ -9,7 +9,7 @@ My academic journey combines finance, economics, and data science, giving me a s
 * Financial Markets
 * Investment Banking
 * Private Equity
-* Applied Machine Learning
+* Data Science
 
 ### 📚 Recent Projects:
 
