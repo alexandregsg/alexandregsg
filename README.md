@@ -2,7 +2,14 @@
 
 I'm currently pursuing my Master's in Finance at Nova School of Business and Economics, after completing a postgraduate degree in Data Science at NOVA IMS and a bachelor's in Economics from the University of Coimbra.
 
-My academic journey combines finance, economics, and data science, giving me a solid foundation in statistical analysis, programming, and economic modeling. I'm particularly interested in how data-driven techniques can improve financial decision-making and economic policy.
+My academic journey combines finance, economics, and data science, giving me a solid foundation in statistical analysis, programming, and economic modeling.
+
+### 🚀 Interests:
+
+* Financial Markets
+* Investment Banking
+* Private Equity
+* Applied Machine Learning
 
 ### 📚 Recent Projects:
 
@@ -42,13 +49,6 @@ My academic journey combines finance, economics, and data science, giving me a s
 ## 📈 Data Visualization
 
 - Tableau, Power BI, RStudio
-
-### 🚀 Interests:
-
-* Financial Markets
-* Investment Banking
-* Private Equity
-* Applied Machine Learning
 
 Feel free to reach out or connect if you’re interested in finance, economics, or data science projects!
 
