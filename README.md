@@ -18,10 +18,6 @@ My academic journey combines finance, economics, and data science, giving me a s
 
 - MySQL, MongoDB, Neo4j
 
-## 🌐 Web Development
-
-- Streamlit, HTML5, CSS3, Django
-
 ## 📊 Data Science & Machine Learning
 
 - NumPy, Pandas, Scikit-Learn, XGBoost / LightGBM / CatBoost
