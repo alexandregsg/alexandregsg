@@ -50,8 +50,8 @@ My academic journey combines finance, economics, and data science, giving me a s
 ### 🚀 Interests:
 
 * Financial Markets
-* Economic Modeling
-* Data-Driven Decision Making
+* Investment Banking
+* Private Equity
 * Applied Machine Learning
 
 Feel free to reach out or connect if you’re interested in finance, economics, or data science projects!
