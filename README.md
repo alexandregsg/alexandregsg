@@ -7,6 +7,7 @@ My academic journey combines finance, economics, and data science, giving me a s
 ### 🚀 Interests:
 
 * Financial Markets
+* Wealth Management
 * Investment Banking
 * Private Equity
 * Data Science
